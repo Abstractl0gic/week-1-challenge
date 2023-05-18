@@ -1,10 +1,10 @@
 # Week-1-Challenge
-##User Story
+## User Story
 As a boot camp student
 I want to refactor the starter code index.html to comform to semantic html elements as well as reorganizing the style.css
 So that the site's code is easier to read and interpret for developers.
 
-##Acceptance Criteria
+## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
